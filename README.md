@@ -1,2 +1,2 @@
 # Python
-My File Python
+Config files for my GitHub profile. 
